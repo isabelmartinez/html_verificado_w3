@@ -2,13 +2,13 @@
 ## (Verificado por w3)
 [Enlace al w3 validator](https://validator.w3.org/)
 
-Es un ejercicio de HTML, un sitio web html con información sobre **Bankston** (Iowa).
+Es un ejercicio de HTML, un sitio web html con información sobre **Bankston** (Iowa). Estructura:
 
-Se estructura así:
-1. ***head***
+1. **head**
 ..* titulo
 ..* *meta description* y *meta keywords*
-2. ***body***
+
+2. **body**
 ..* rótulo
 ..* parágrafo de información
 ..* 2 imágenes
