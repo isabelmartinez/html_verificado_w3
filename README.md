@@ -1,20 +1,17 @@
-# html_verificado_w3
-sitio web html banston
-
 # Sitio web de Bankston
 ## (Verificado por w3)
-### [Link a w3 validator](validator.w3.org)
+[Enlace al w3 validator](https://validator.w3.org/)
 
 Es un ejercicio de HTML, un sitio web html con información sobre **Bankston** (Iowa).
 
-Unordered list:
-* un
-* dos
-* tres
-..1. tres.un
-..2. tres.dos
+Se estructura así:
+1. ***head***
+..* titulo
+..* *meta description* y *meta keywords*
+2. ***body***
+..* rótulo
+..* parágrafo de información
+..* 2 imágenes
+..* tabla con información
+..* una lista
 
-[Enllaç](http://www.google.com)
-
-**Text ressaltat**
-*paraules en un altre idioma* 
