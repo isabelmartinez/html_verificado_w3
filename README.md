@@ -6,13 +6,13 @@ Es un ejercicio de HTML, un sitio web html con información sobre **Bankston** (
 
 
 1. **head**
-··+ titulo
-··+ *meta description* y *meta keywords*
+  + titulo
+  + *meta description* y *meta keywords*
 
 2. **body**
-··+ rótulo
-··+ parágrafo de información
-··+ 2 imágenes
-··+ tabla con información
-··+ una lista
+  + rótulo
+  + parágrafo de información
+  + 2 imágenes
+  + tabla con información
+  + una lista
 
