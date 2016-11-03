@@ -1,4 +1,4 @@
-# Sitio web de Bankston
+﻿# Sitio web de Bankston
 ## (Verificado por w3)
 [Enlace al w3 validator](https://validator.w3.org/)
 
@@ -17,3 +17,4 @@ Es un ejercicio de HTML, un sitio web html con información sobre **Bankston** (
   + una lista
 
 [Enlace al html](../master/index.html)
+hola :D
