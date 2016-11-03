@@ -17,4 +17,3 @@ Es un ejercicio de HTML, un sitio web html con información sobre **Bankston** (
   + una lista
 
 [Enlace al html](../master/index.html)
-hola :D
